@@ -1,0 +1,24 @@
+{
+  "short_name": "RupeeNova",
+  "name": "RupeeNova: Student Finance Advisor",
+  "description": "Personal Finance Advisor & Room Food Split for Indian College Students",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070a13",
+  "theme_color": "#070a13",
+  "display": "standalone",
+  "orientation": "portrait"
+}
